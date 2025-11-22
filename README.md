@@ -1,2 +1,1 @@
-# ansi
-Useful reference for ansi escape sequences
+usage: `python ansi.py`
